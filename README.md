@@ -2,7 +2,7 @@
 
 Export code snipped
 
-```
+```Smalltalk
 Pharo2VW exporter
 	"directory: '.' asFileReference;"
 	namespace: 'GeneticAlgorithm';
